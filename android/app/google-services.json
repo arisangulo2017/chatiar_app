@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "295896292996",
+    "project_id": "chatiar-app",
+    "storage_bucket": "chatiar-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295896292996:android:7f0e5de3f8f463ece7acd1",
+        "android_client_info": {
+          "package_name": "com.example.chatiar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295896292996-h7jbmklm35n1kqn4uhft9r4ebq685onl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatiar_app",
+            "certificate_hash": "be3f341b0fd5a4631211ca4f6a7800fef2fc0373"
+          }
+        },
+        {
+          "client_id": "295896292996-elu44no84h0g04jnt0dupr3kffiu0m8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapZtlIc7s8CNZkqTz4mYIgT2lYXfq6Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295896292996-elu44no84h0g04jnt0dupr3kffiu0m8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295896292996-kr568b1j0tk2ug6ed3rmq3sc2jf1vgq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatiarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
